@@ -1,5 +1,5 @@
 # Web Alumno Bootstrap
--Alert: Uso un alert en la pagina avisos
+*Alert: Uso un alert en la pagina avisos
 -Breadcrumb: Los uso en cada pagina para que el usurio sepa donde esta
 -Buttons: los uso en casi todas las paginas como enlaces o para otro tipo de utilidad
 -Card: La uso en el area personal para mostrar la foto del usuario
