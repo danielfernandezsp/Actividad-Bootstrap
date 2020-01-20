@@ -10,3 +10,6 @@
 - Modal: En el carousel cuando pinchas en una foto salta un modal con la foto entera
 - Navbar: Es el menu de navegacion princial de la web
 - Tooltips: Los uso en los enlaces a las asignaturas para mostrar una descripcion del enlace
+## Enlace de la web:
+
+[Web del alumno](https://danielfernandezsanchezpalencia.000webhostapp.com/dise%C3%B1oDIW/Web%20del%20cliente/)
